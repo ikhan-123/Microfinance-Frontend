@@ -25,12 +25,12 @@ const Home = () => {
                 " duration-300 hover:scale-105 hover:bg-green-700 bg-customGreen"
               }
             />
-            <PrimaryBtn
+            {/* <PrimaryBtn
               BtnText={"Get Loan"}
               additinalClasses={
                 "duration-300 hover:scale-105 hover:bg-green-700 bg-[#0368B4]"
-              }
-            />
+              } */}
+            
           </div>
         </div>
         <div className="w-[50%] mt-10 -z-40">
